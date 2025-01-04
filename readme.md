@@ -130,14 +130,14 @@ def createHilo(tema):
 ### 2. **Buscar y Descargar Imágenes**
 Archivo: `bing_image_search.py`
 ```python
-def buscar_y_descargar_imagenes(hilo, carpeta="imagenes_hilo"):
+def get_images_from_hilos(hilo, carpeta):
     # Descarga imágenes relacionadas con cada tweet.
 ```
 
 ### 3. **Publicar Hilos en Twitter**
 Archivo: `twitter.py`
 ```python
-def publicar_hilo_con_imagenes(hilo, carpeta_imagenes):
+def publicar_hilo(hilo, carpeta_imagenes):
     # Publica cada tweet con su imagen correspondiente.
 ```
 
