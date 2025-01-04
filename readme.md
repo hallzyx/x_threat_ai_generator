@@ -104,11 +104,14 @@ Tema del hilo: "Avances en Inteligencia Artificial en 2023"
 Hilo generado:
 - Introducción: "2023 marcó un antes y un después en la Inteligencia Artificial. ¡Descubre cómo! 🦝🔌"
 - 1. GPT-4: OpenAI lanzó este modelo, transformando la forma en que interactuamos con IA.
+    [imagen 1]
 - 2. Medicina: IA ayudó a identificar nuevas terapias para enfermedades raras.
+    [imagen 2]
 - 3. Energía limpia: Modelos predictivos mejoraron la eficiencia solar.
+    [imagen 3]
 ...
+- Conclusión: "¿Y tu que opinas? Dejame tu respuesta en los comentarios..."
 
-¿Deseas publicar este hilo en Twitter? (s/n): s
 Publicando...
 ¡Hilo publicado exitosamente!
 ```
