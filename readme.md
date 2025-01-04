@@ -50,17 +50,17 @@ pip install -r requeriments.txt
 Crea un archivo `.env` en la raíz del proyecto y agrega las siguientes claves:
 ```plaintext
 # Claves de OpenAI
-OPENAI_API_KEY=tu_clave_de_openai
+OPENAI_KEY=
 
 # Claves de Bing
-BING_API_KEY=tu_clave_de_bing
-BING_ENDPOINT=https://api.bing.microsoft.com/v7.0/images/search
+BING_API_KEY_1=
+URL_BING_API=https://api.bing.microsoft.com
 
 # Claves de Twitter
-TWITTER_API_KEY=tu_clave_de_twitter
-TWITTER_API_SECRET=tu_secreto_de_api_de_twitter
-TWITTER_ACCESS_TOKEN=tu_token_de_acceso
-TWITTER_ACCESS_SECRET=tu_secreto_de_token
+X_API_KEY=
+X_API_KEY_SECRET=
+X_ACCESS_TOKEN=
+X_ACCESS_TOKEN_SECRET=
 ```
 
 ---
